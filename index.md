@@ -1,5 +1,5 @@
 # Projects
-<img src="https://rawgit.com/ThisDrunkDane/agitclient/master/logo.png" alt="Odinbuilder logo" height=250px/>
+<img src="https://cdn.jsdelivr.net/gh/ThisDrunkDane/agitclient@master/logo.png" alt="Odinbuilder logo" height=250px/>
 <br/>
 
 [test](https://github.com/ThisDrunkDane/Jaze)
